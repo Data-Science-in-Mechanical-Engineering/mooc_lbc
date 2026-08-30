@@ -1,0 +1,20 @@
+# Core
+numpy
+scipy
+matplotlib
+
+# Week 3: dynamics learning
+torch
+scikit-learn
+
+# Week 4: Bayesian optimization
+botorch
+gpytorch
+
+# Week 5: REINFORCE
+gymnasium[classic-control]
+
+# Notebook environment
+jupyterlab
+ipykernel
+ipywidgets
