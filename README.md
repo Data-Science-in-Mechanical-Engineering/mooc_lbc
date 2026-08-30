@@ -21,7 +21,7 @@ The notebooks were developed and tested with **Python 3.11**.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Data-Science-in-Mechanical-Engineering/mooc_lbc.git
 cd mooc_lbc
 ```
 
@@ -47,6 +47,10 @@ conda activate mooc_lbc
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+The versions in `requirements.txt` are pinned to the ones the notebooks were
+developed and tested with. If you prefer newer versions, drop the pins — but note
+that `torch`, `botorch` and `gpytorch` change their APIs fairly often.
 
 ### 4. Start Jupyter
 

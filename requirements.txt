@@ -1,20 +1,22 @@
+# Pinned to the versions the notebooks were developed and tested with (Python 3.11).
+
 # Core
-numpy
-scipy
-matplotlib
+numpy==2.2.3
+scipy==1.15.2
+matplotlib==3.10.1
 
 # Week 3: dynamics learning
-torch
-scikit-learn
+torch==2.6.0
+scikit-learn==1.6.1
 
 # Week 4: Bayesian optimization
-botorch
-gpytorch
+botorch==0.13.0
+gpytorch==1.14
 
 # Week 5: REINFORCE
-gymnasium[classic-control]
+gymnasium[classic-control]==1.1.1
 
 # Notebook environment
-jupyterlab
-ipykernel
-ipywidgets
+jupyterlab==4.3.6
+ipykernel==6.29.5
+ipywidgets==8.1.5
