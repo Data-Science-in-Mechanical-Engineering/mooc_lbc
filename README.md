@@ -1,8 +1,7 @@
 # Learning-based Control — Course Notebooks
 
 This repository contains the Jupyter notebooks from the coding units of the MOOC
-**Learning-based Control** (RWTH Aachen University, Institute for Data Science in
-Mechanical Engineering — DSME; Prof. Sebastian Trimpe, Paul Brunzema).
+[**RWTHx: Learning-based Control**](https://www.edx.org/learn/computer-science/rwth-aachen-university-learning-based-control).
 
 All notebooks build on the cart pole as a running example:
 
